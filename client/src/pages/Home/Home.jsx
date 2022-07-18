@@ -1,6 +1,4 @@
 import React from "react";
-
-import Loader from "../../components/visual/Loader/Loader";
 import Login from "../../components/visual/Login/Login";
 import useUser from "../../utils/hooks/useUser";
 
